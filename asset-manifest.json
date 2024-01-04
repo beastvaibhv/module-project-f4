@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/http//beastvaibhv.github.io/module-project-f4/static/css/main.94cfd87b.css",
-    "main.js": "/http//beastvaibhv.github.io/module-project-f4/static/js/main.809e876b.js",
-    "static/js/787.8b33d9bd.chunk.js": "/http//beastvaibhv.github.io/module-project-f4/static/js/787.8b33d9bd.chunk.js",
-    "index.html": "/http//beastvaibhv.github.io/module-project-f4/index.html",
-    "main.94cfd87b.css.map": "/http//beastvaibhv.github.io/module-project-f4/static/css/main.94cfd87b.css.map",
-    "main.809e876b.js.map": "/http//beastvaibhv.github.io/module-project-f4/static/js/main.809e876b.js.map",
-    "787.8b33d9bd.chunk.js.map": "/http//beastvaibhv.github.io/module-project-f4/static/js/787.8b33d9bd.chunk.js.map"
+    "main.css": "/module-project-f4/static/css/main.94cfd87b.css",
+    "main.js": "/module-project-f4/static/js/main.8dabae34.js",
+    "static/js/787.8b33d9bd.chunk.js": "/module-project-f4/static/js/787.8b33d9bd.chunk.js",
+    "index.html": "/module-project-f4/index.html",
+    "main.94cfd87b.css.map": "/module-project-f4/static/css/main.94cfd87b.css.map",
+    "main.8dabae34.js.map": "/module-project-f4/static/js/main.8dabae34.js.map",
+    "787.8b33d9bd.chunk.js.map": "/module-project-f4/static/js/787.8b33d9bd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.94cfd87b.css",
-    "static/js/main.809e876b.js"
+    "static/js/main.8dabae34.js"
   ]
 }
