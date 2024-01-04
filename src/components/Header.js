@@ -1,29 +1,27 @@
+// Header.js
 import React from 'react';
-
+import { Link } from 'react-router-dom';
 
 const Header = () => {
   return (
     <div>
       <div className='main-header'>
-        <div className="app-name">
-
-          Santara
-
-        </div>
+        <Link to="/">
+          <div className="app-name">
+            Santara
+          </div>
+        </Link>
         <div className='links'>
-          <div>
+          <Link to="/" className='link'>
             Home
-          </div>
-          <div>
-
+          </Link>
+          <Link to="/cart" className='link'>
             Cart
-
-          </div>
+          </Link>
         </div>
       </div>
-
     </div>
-  )
+  );
 }
 
 export default Header;
