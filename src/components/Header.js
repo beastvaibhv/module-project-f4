@@ -6,18 +6,18 @@ const Header = () => {
   return (
     <div>
       <div className='main-header'>
-        <Link to="/">
+        <a href="/">
           <div className="app-name">
             Santara
           </div>
-        </Link>
+        </a>
         <div className='links'>
-          <Link to="/" className='link'>
+          <a href="/" className='link'>
             Home
-          </Link>
-          <Link to="/cart" className='link'>
+          </a>
+          <a href="/cart" className='link'>
             Cart
-          </Link>
+          </a>
         </div>
       </div>
     </div>
